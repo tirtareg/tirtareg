@@ -8,7 +8,7 @@ output:
     toc_depth: '2'
     df_print: paged
     theme: spacelab
-    toc_float: no
+    toc_float: yes
   pdf_document:
     toc: yes
     toc_depth: '2'
@@ -69,6 +69,7 @@ knitr::opts_chunk$set(echo = TRUE, results = 'hold', warning = FALSE, fig.show =
 options(scipen = 99)
 ```
 
+# Pendaftaran Maba
 
 Calon mahasiswa baru jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN) yang dinyatakan LULUS, diwajibakan melakukan registrasi online dengan ketentuan sebagai berikut.
 
@@ -123,3 +124,24 @@ Pada hari dan jam kerja kantor: Senin s/d Jumat pukul 08.00 s/d 15.00 WIB
 KIP – BIDIKMISI:
 
 1.	Bapak Supriyadi		0812 9264 7200
+
+# Penyesuaian UKT
+
+Berikut hasil dari Permohonan Penyesuaian UKT Tahun 2020/2021 Semester Ganjil. Hal hal yang perlu diperhatikan :
+
+1. Cek NIM atau Nama Anda (**gunakan search**)
+2. Jika anda merasa perlu untuk mengajukan peninjauan ulang silahkan hubungi Tata Usaha Fakultas/Program Studi dengan menyampaikan alasannya.
+3. Rekomendasi Peninjauan Ulang dikirim ulang oleh Fakultas secara **kolektif (bukan per mahasiswa)** terakhir tanggal **13 Agustus 2020 pukul 14:00**.
+4. Untuk Pembayaran UKT, jika tagihan di Bank belum sesuai tunggu sampai tanggal 13 Agustus 2020.
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(janitor)
+library(readxl)
+library(tidyr)
+library(kableExtra)
+data <- read_excel("G:/My Drive/# REGISTRASI DAN STATISTIK/UKT/2020/Hasil Verifikasi PNBP/publish.xlsx")
+
+DT::datatable(data,
+              rownames = F)
+```
