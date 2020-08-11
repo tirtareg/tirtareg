@@ -1,0 +1,125 @@
+---
+title: "Panduan Registrasi Ulang SBMPTN 2020"
+author: "Subbagian Registrasi dan Statistik Untirta"
+date: "Diunggah pada: `r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
+    theme: spacelab
+    toc_float: no
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  html_notebook:
+    number_sections: no
+    theme: spacelab
+    df_print: paged
+    toc: yes
+    toc_depth: 2
+    toc_float: yes
+---
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 14px;
+  }
+td {  /* Table  */
+  font-size: 12px;
+}
+h1.title {
+  font-size: 28px;
+  color: lightblue;
+}
+h1 { /* Header 1 */
+  font-size: 24px;
+  color: DarkBlue;
+  font-weight: bold;
+}
+h2 { /* Header 2 */
+  font-size: 20px;
+  color: DarkBlue;
+  font-weight: bold;
+}
+h3 { /* Header 3 */
+  font-size: 16px;
+#  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+  font-weight: bold;
+}
+h4 { /* Header 4 */
+  font-size: 14px;
+  color: DarkBlue;
+  font-weight: bold;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 12px;
+}
+</style>
+
+
+```{r setup, include=FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, results = 'hold', warning = FALSE, fig.show = 'hold', message = FALSE) 
+options(scipen = 99)
+```
+
+
+Calon mahasiswa baru jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN) yang dinyatakan LULUS, diwajibakan melakukan registrasi online dengan ketentuan sebagai berikut.
+
+### A. Persiapan kelengkapan dokumen registrasi.
+
+  1. Waktu: Tanggal 09 s/d 30 April 2020 pukul 20.00 WIB
+  2. Mempersiapkan secara lengkap dokumen pada bagian B yang akan diunggah (upload).
+  3. Login ke laman http://admisi.untirta.ac.id
+      Username dan Password dikirimkan ke email yang digunakan saat mendaftar SNMPTN. Lengkapi data yang diminta kemudian unggah (upload) data dukung seperti pada bagian B.
+Mengunduh (download), mengisi, mencetak, dan mengunggah (upload) Pakta Integritas dan Surat Pernyataan Mentaati Peraturan.
+
+
+### B.	Dokumen yang harus diunggah (upload) adalah sebagai berikut:
+1. Kartu peserta SNMPTN.
+2. Akta Kelahiran.
+3. Kartu Keluarga.
+4. Tagihan listrik bulan Januari/Februari/Maret 2020
+5. SPPT Pajak Bumi dan Bangunan (PBB) tahun /2017/2018/2019.
+6. Penghasilan Ayah atau Wali (pilih salah satu dari dokumen berikut):
+    a. Bukti resmi dari Instansi Tempat Bekerja (bagi Ayah atau Wali PNS),
+    b. Surat Keterangan yang menerangkan penghasilan per bulan yang ditandatangani orang tua (bagi Ayah atau Wali non PNS)
+7. Penghasilan Ibu atau Wali (pilih salah satu dari dokumen berikut):
+    a. Bukti resmi dari Instansi Tempat Bekerja (bagi Ibu atau Wali PNS),
+    b. Surat Keterangan yang menerangkan penghasilan per bulan yang ditandatangani orang tua (bagi Ibu atau Wali non PNS)
+8. Surat tes kesahatan, Narkoba, dan Buta Warna yang bisa dilaksanakan di Fasilitas Kesehatan Pemerintah (RSUD/Puskesmas/PKM) terdekat (menyusul berbarengan dengan registrasi SBMPTN)
+9. Foto terbaru (background merah).
+
+### C. Penentuan Uang Kuliah Tunggal (UKT): 04 s/d 06 Mei 2020
+
+### D. Pembayaran Uang Kuliah Tunggal (UKT) dengan ketentuan sebagai berikut.
+1. Waktu: 07 s/d 20 Mei 2020.
+2. Pembayaran dilakukan di Bank BNI seluruh Cabang Indonesia melalui Teller atau ATM dengan menggunakan menu Student Payment Center (SPC) kode untirta 8041 dan nomor tagihan adalah No Peserta SNMPTN
+3. Menerima bukti pembayaran dari Bank BNI (Teller atau ATM)
+4. Tata cara pembayaran UKT bisa diakses di [bit.ly/tirtaUKT](http://bit.ly/tirtaUKT)
+5. Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,- s.d. Rp. 22.000.000,- (UKT Kelompok III s.d. VIII)
+6. Untuk Ukuran Jas Almamater dapat diakses di [bit.ly/2JGastP](http://bit.ly/2JGastP)
+
+Nomor Induk Mahasiswa (NIM) dan Password akan dikirim melalui email yang diisi di [admisi.untirta.ac.id](http://admisi.untirta.ac.id) (PASTIKAN EMAIL YANG DIISI BENAR).
+
+**Contact Person Whatsapp**: 
+
+Pada hari dan jam kerja kantor: Senin s/d Jumat pukul 08.00 s/d 15.00 WIB
+
+1. Bapak Riana Hadiana ([0811 1072 357](http://wa.me/628111072357))
+2. Bapak Sriyanto (0858 8850 4977)
+3. Bapak Munawar Holil (0877 7171 0236)
+4. Bapak Khairul Kholqi (0878 0960 2954)
+5. Bapak Tommy (0819 1110 6670)
+6. Bapak Faridl	(0896 4356 3659)
+7. Bapak Yayan (0857 1919 2326)
+
+KIP – BIDIKMISI:
+
+1.	Bapak Supriyadi		0812 9264 7200
