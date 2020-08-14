@@ -1,6 +1,6 @@
 ---
-title: "Panduan Registrasi Ulang SBMPTN 2020"
-author: "Subbagian Registrasi dan Statistik Untirta"
+title: "Panduan Registrasi Ulang 2020"
+#author: "Subbagian Registrasi dan Statistik Untirta"
 date: "Diunggah pada: `r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
@@ -8,7 +8,7 @@ output:
     toc_depth: '2'
     df_print: paged
     theme: spacelab
-    toc_float: yes
+    toc_float: no
   pdf_document:
     toc: yes
     toc_depth: '2'
@@ -31,27 +31,27 @@ td {  /* Table  */
 }
 h1.title {
   font-size: 28px;
-  color: lightblue;
+  color: Maroon;
 }
 h1 { /* Header 1 */
   font-size: 24px;
-  color: DarkBlue;
+  color: Maroon;
   font-weight: bold;
 }
 h2 { /* Header 2 */
   font-size: 20px;
-  color: DarkBlue;
+  color: Maroon;
   font-weight: bold;
 }
 h3 { /* Header 3 */
   font-size: 16px;
 #  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
+  color: Maroon;
   font-weight: bold;
 }
 h4 { /* Header 4 */
   font-size: 14px;
-  color: DarkBlue;
+  color: Maroon;
   font-weight: bold;
 }
 code.r{ /* Code block */
@@ -69,79 +69,47 @@ knitr::opts_chunk$set(echo = TRUE, results = 'hold', warning = FALSE, fig.show =
 options(scipen = 99)
 ```
 
-# Pendaftaran Maba
 
-Calon mahasiswa baru jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN) yang dinyatakan LULUS, diwajibakan melakukan registrasi online dengan ketentuan sebagai berikut.
+Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** (**SBMPTN**), **Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat** (**SMMPTN**), dan **Ujian Masuk Mandiri** (**UMM**) D3 Tahun 2020 di Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut**:
 
-### A. Persiapan kelengkapan dokumen registrasi.
+1. Jadwal registrasi ulang
 
-  1. Waktu: Tanggal 09 s/d 30 April 2020 pukul 20.00 WIB
-  2. Mempersiapkan secara lengkap dokumen pada bagian B yang akan diunggah (upload).
-  3. Login ke laman http://admisi.untirta.ac.id
-      Username dan Password dikirimkan ke email yang digunakan saat mendaftar SNMPTN. Lengkapi data yang diminta kemudian unggah (upload) data dukung seperti pada bagian B.
-Mengunduh (download), mengisi, mencetak, dan mengunggah (upload) Pakta Integritas dan Surat Pernyataan Mentaati Peraturan.
-
-
-### B.	Dokumen yang harus diunggah (upload) adalah sebagai berikut:
-1. Kartu peserta SNMPTN.
-2. Akta Kelahiran.
-3. Kartu Keluarga.
-4. Tagihan listrik bulan Januari/Februari/Maret 2020
-5. SPPT Pajak Bumi dan Bangunan (PBB) tahun /2017/2018/2019.
-6. Penghasilan Ayah atau Wali (pilih salah satu dari dokumen berikut):
-    a. Bukti resmi dari Instansi Tempat Bekerja (bagi Ayah atau Wali PNS),
-    b. Surat Keterangan yang menerangkan penghasilan per bulan yang ditandatangani orang tua (bagi Ayah atau Wali non PNS)
-7. Penghasilan Ibu atau Wali (pilih salah satu dari dokumen berikut):
-    a. Bukti resmi dari Instansi Tempat Bekerja (bagi Ibu atau Wali PNS),
-    b. Surat Keterangan yang menerangkan penghasilan per bulan yang ditandatangani orang tua (bagi Ibu atau Wali non PNS)
-8. Surat tes kesahatan, Narkoba, dan Buta Warna yang bisa dilaksanakan di Fasilitas Kesehatan Pemerintah (RSUD/Puskesmas/PKM) terdekat (menyusul berbarengan dengan registrasi SBMPTN)
-9. Foto terbaru (background merah).
-
-### C. Penentuan Uang Kuliah Tunggal (UKT): 04 s/d 06 Mei 2020
-
-### D. Pembayaran Uang Kuliah Tunggal (UKT) dengan ketentuan sebagai berikut.
-1. Waktu: 07 s/d 20 Mei 2020.
-2. Pembayaran dilakukan di Bank BNI seluruh Cabang Indonesia melalui Teller atau ATM dengan menggunakan menu Student Payment Center (SPC) kode untirta 8041 dan nomor tagihan adalah No Peserta SNMPTN
-3. Menerima bukti pembayaran dari Bank BNI (Teller atau ATM)
-4. Tata cara pembayaran UKT bisa diakses di [bit.ly/tirtaUKT](http://bit.ly/tirtaUKT)
-5. Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,- s.d. Rp. 22.000.000,- (UKT Kelompok III s.d. VIII)
-6. Untuk Ukuran Jas Almamater dapat diakses di [bit.ly/2JGastP](http://bit.ly/2JGastP)
-
-Nomor Induk Mahasiswa (NIM) dan Password akan dikirim melalui email yang diisi di [admisi.untirta.ac.id](http://admisi.untirta.ac.id) (PASTIKAN EMAIL YANG DIISI BENAR).
-
-**Contact Person Whatsapp**: 
-
-Pada hari dan jam kerja kantor: Senin s/d Jumat pukul 08.00 s/d 15.00 WIB
-
-1. Bapak Riana Hadiana ([0811 1072 357](http://wa.me/628111072357))
-2. Bapak Sriyanto (0858 8850 4977)
-3. Bapak Munawar Holil (0877 7171 0236)
-4. Bapak Khairul Kholqi (0878 0960 2954)
-5. Bapak Tommy (0819 1110 6670)
-6. Bapak Faridl	(0896 4356 3659)
-7. Bapak Yayan (0857 1919 2326)
-
-KIP – BIDIKMISI:
-
-1.	Bapak Supriyadi		0812 9264 7200
-
-# Penyesuaian UKT
-
-Berikut hasil dari Permohonan Penyesuaian UKT Tahun 2020/2021 Semester Ganjil. Hal hal yang perlu diperhatikan :
-
-1. Cek NIM atau Nama Anda (**gunakan search**)
-2. Jika anda merasa perlu untuk mengajukan peninjauan ulang silahkan hubungi Tata Usaha Fakultas/Program Studi dengan menyampaikan alasannya.
-3. Rekomendasi Peninjauan Ulang dikirim ulang oleh Fakultas secara **kolektif (bukan per mahasiswa)** terakhir tanggal **13 Agustus 2020 pukul 14:00**.
-4. Untuk Pembayaran UKT, jika tagihan di Bank belum sesuai tunggu sampai tanggal 13 Agustus 2020.
-
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-library(janitor)
-library(readxl)
-library(tidyr)
-library(kableExtra)
-data <- read_excel("G:/My Drive/# REGISTRASI DAN STATISTIK/UKT/2020/Hasil Verifikasi PNBP/publish.xlsx")
-
-DT::datatable(data,
-              rownames = F)
-```
+    |NO|SELEKSI|REGISTRASI ULANG|PEMBAYARAN UKT|
+    |:---|:---|:---|:---|
+    |1.|SBMPTN|16 - 26 Agustus 2020|27 Agustus - 04 September 2020|
+    |2.|SMMPTN|02 - 06 September 2020|09 - 13 September 2020|
+    |3.|UMM D3|10 Juli - 04 September 2020|09 - 13 September 2020|
+    
+1. Pemberkasan secara *online* melalui laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} sesuai dengan jadwal di atas.
+    - *Login* pada laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} dengan *username* Nomor Pendaftaran dan *Password* yang kami kirim melalui email anda
+    - Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf (**ukuran file tidak melebihi 260kb**) untuk di-*upload*.
+        1. Pakta Integritas Uang Kuliah Tunggal
+            - [Jalur SBMPTN dan SMMPTN](https://drive.google.com/file/d/1NZKdSxkkQ_Xqc67esXABnTGOSXUDaarN/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
+            - [Jalur UMM D3 dan Alih Jenjang](https://drive.google.com/file/d/1F19P5ILL59fXVp004ce3mLjBcmfkbjkp/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
+        2. [Surat Pernyataan Mentaati Peraturan](https://drive.google.com/file/d/1PVRiZNWKmgZjpMcnoPaplPmC19CldU3r/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
+        3. Ijasah bagi lulusan tahun 2018, 2019, dan 2020 / Surat Keterangan Lulus bagi  lulusan tahun 2020 yang belum memperoleh Ijazah.
+        4. Kartu Peserta Tes.
+        5. Akta Kelahiran.
+        6. Kartu Keluarga (KK).
+        7. Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar*.
+        8. SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
+        9. Surat Keterangan Kesehatan, Tes Narkoba dan Surat Pemeriksaan Buta Warna untuk jurusan yang mensyaratkan.
+        10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut:
+            - **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (bulan Juli atau Agustus),
+            - **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : [Surat Pernyataan Penghasilan bermaterai dan ditandatangani Orang tua/Wali](https://drive.google.com/file/d/1NZq31ZS_zoJofnCPWnpP07nOvCYvRSM0/view?usp=sharing){target="_blank"} (*download*, diisi dan *upload*),
+            - **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (bulan Juli atau Agustus).
+1. *Upload* foto diri, dengan ketentuan:  
+    - Laki-laki (jas hitam, baju putih, dasi hitam, *background* merah, ukuran (4×6)),
+    - Perempuan (jas hitam/blazer, baju putih, dasi hitam, *background* merah, ukuran ( 4×6)),
+    - Perempuan berjilbab (jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi, ukuran (4×6)),
+    - Format file adalah JPG.
+1. Isilah dengan **benar**, **akurat**, dan **jujur** semua data diri anda.  
+1. Penetapan UKT dikirim melalui email masing masing calon mahasiswa setelah menyelesaikan proses 2 hingga 4.  
+1. Tatacara pembayaran UKT dapat dilihat [di sini](http://bit.ly/tirtaUKT){target="_blank"}.  
+1. **Lain-lain**:  
+    - Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa;
+    - Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
+        a. [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"},
+        a. [https://untirta.ac.id](https://untirta.ac.id){target="_blank"},
+        a. email anda masing-masing (**pastikan email anda aktif**).
+    - Hal yang belum jelas bisa ditanyakan melalui email **registrasi@untirta.ac.id**.
