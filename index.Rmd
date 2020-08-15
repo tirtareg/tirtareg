@@ -92,9 +92,10 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
             |7.|Kedokteran|Tidak Boleh Buta Warna|
             |8.|Pendidikan Biologi|Tidak Boleh Buta Warna|
             |9.|Ilmu Keolahragaan|Tidak Boleh Buta Warna|
-            |10.|Teknik Industri|Buta Warna Sebagian/Partial masih diperbolehkan|
-            |11.|Ilmu Perikanan|Buta Warna Sebagian/Partial masih diperbolehkan|
-            |12.|Teknologi Pangan|Buta Warna Sebagian/Partial masih diperbolehkan|
+            |10.|PGPAUD|Tidak Boleh Buta Warna|
+            |11.|Teknik Industri|Buta Warna Sebagian/Partial masih diperbolehkan|
+            |12.|Ilmu Perikanan|Buta Warna Sebagian/Partial masih diperbolehkan|
+            |13.|Teknologi Pangan|Buta Warna Sebagian/Partial masih diperbolehkan|
         10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
             - **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (bulan Juli atau Agustus),
             - **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : [Surat Pernyataan Penghasilan bermaterai dan ditandatangani Orang tua/Wali](https://drive.google.com/file/d/1NZq31ZS_zoJofnCPWnpP07nOvCYvRSM0/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*),
