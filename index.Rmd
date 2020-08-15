@@ -70,19 +70,34 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
     - *Login* pada laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} dengan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda mulai **tanggal 16 - 17 Agustus 2020 (pastikan email anda aktif)** dan **jangan menekan tombol Daftar**.
     - Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf (**ukuran file tidak melebihi 260kb**) untuk di-*upload*.
         1. Pakta Integritas Uang Kuliah Tunggal
-            - [Jalur SBMPTN dan SMMPTN](https://drive.google.com/file/d/1NZKdSxkkQ_Xqc67esXABnTGOSXUDaarN/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
-            - [Jalur UMM D3 dan Alih Jenjang](https://drive.google.com/file/d/1F19P5ILL59fXVp004ce3mLjBcmfkbjkp/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
-        2. [Surat Pernyataan Mentaati Peraturan](https://drive.google.com/file/d/1PVRiZNWKmgZjpMcnoPaplPmC19CldU3r/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
+            - [Jalur SBMPTN dan SMMPTN](https://drive.google.com/file/d/1NZKdSxkkQ_Xqc67esXABnTGOSXUDaarN/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+            - [Jalur UMM D3 dan Alih Jenjang](https://drive.google.com/file/d/1F19P5ILL59fXVp004ce3mLjBcmfkbjkp/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+        2. [Surat Pernyataan Mentaati Peraturan](https://drive.google.com/file/d/1PVRiZNWKmgZjpMcnoPaplPmC19CldU3r/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
         3. Ijasah bagi lulusan tahun 2018, 2019, dan 2020 / Surat Keterangan Lulus bagi  lulusan tahun 2020 yang belum memperoleh Ijazah.
-        4. Kartu Peserta Tes.
-        5. Akta Kelahiran.
-        6. Kartu Keluarga (KK).
-        7. Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar*.
-        8. SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
-        9. Surat Keterangan Kesehatan, Tes Narkoba dan Surat Pemeriksaan Buta Warna untuk jurusan yang mensyaratkan.
-        10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut:
+        4. Kartu Peserta Tes (*scan* dan *upload*).
+        5. Akta Kelahiran (*scan* dan *upload*).
+        6. Kartu Keluarga (*scan* dan *upload*).
+        7. Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
+        8. SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+        9. Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk **Program Studi berikut** (*scan*, jadikan 1 file, dan *upload*)
+        
+            |No.|Program Studi|Keterangan|
+            |:---|:---|:---|
+            |1.|Agroekoteknologi|Tidak Boleh Buta Warna|
+            |2.|Teknik Elektro|Tidak Boleh Buta Warna|
+            |3.|Teknik Sipil|Tidak Boleh Buta Warna|
+            |4.|Teknik Kimia|Tidak Boleh Buta Warna|
+            |5.|Gizi|Tidak Boleh Buta Warna|
+            |6.|Ilmu Keperawatan|	Tidak Boleh Buta Warna|
+            |7.|Kedokteran|Tidak Boleh Buta Warna|
+            |8.|Pendidikan Biologi|Tidak Boleh Buta Warna|
+            |9.|Ilmu Keolahragaan|Tidak Boleh Buta Warna|
+            |10.|Teknik Industri|Buta Warna Sebagian/Partial masih diperbolehkan|
+            |11.|Ilmu Perikanan|Buta Warna Sebagian/Partial masih diperbolehkan|
+            |12.|Teknologi Pangan|Buta Warna Sebagian/Partial masih diperbolehkan|
+        10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
             - **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (bulan Juli atau Agustus),
-            - **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : [Surat Pernyataan Penghasilan bermaterai dan ditandatangani Orang tua/Wali](https://drive.google.com/file/d/1NZq31ZS_zoJofnCPWnpP07nOvCYvRSM0/view?usp=sharing){target="_blank"} (*download*, diisi dan *upload*),
+            - **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : [Surat Pernyataan Penghasilan bermaterai dan ditandatangani Orang tua/Wali](https://drive.google.com/file/d/1NZq31ZS_zoJofnCPWnpP07nOvCYvRSM0/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*),
             - **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (bulan Juli atau Agustus).
 1. *Upload* foto diri, dengan ketentuan:  
     - Laki-laki (jas hitam, baju putih, dasi hitam, *background* merah, ukuran (4×6)),
