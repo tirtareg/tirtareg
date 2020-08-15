@@ -12,13 +12,6 @@ output:
   pdf_document:
     toc: yes
     toc_depth: '2'
-  html_notebook:
-    number_sections: no
-    theme: spacelab
-    df_print: paged
-    toc: yes
-    toc_depth: 2
-    toc_float: yes
 ---
 
 <style type="text/css">
@@ -74,7 +67,7 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
     |3.|UMM D3|10 Juli - 04 September 2020|09 - 13 September 2020|
     
 1. Pemberkasan secara *online* melalui laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} sesuai dengan jadwal di atas.
-    - *Login* pada laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} dengan *username* Nomor Pendaftaran dan *Password* yang kami kirim melalui email anda mulai **tanggal 16 - 17 Agustus 2020 (pastikan email anda aktif)**
+    - *Login* pada laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} dengan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda mulai **tanggal 16 - 17 Agustus 2020 (pastikan email anda aktif)** dan **jangan menekan tombol Daftar**.
     - Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf (**ukuran file tidak melebihi 260kb**) untuk di-*upload*.
         1. Pakta Integritas Uang Kuliah Tunggal
             - [Jalur SBMPTN dan SMMPTN](https://drive.google.com/file/d/1NZKdSxkkQ_Xqc67esXABnTGOSXUDaarN/view?usp=sharing){target="_blank"} (*download*, diisi, dan *upload*).
