@@ -67,7 +67,7 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
     |3.|UMM D3|10 Juli - 04 September 2020|09 - 13 September 2020|
     
 1. Pemberkasan secara *online* melalui laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} sesuai dengan jadwal di atas.
-    - *Login* pada laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} dengan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda mulai **tanggal 16 - 17 Agustus 2020 (pastikan email anda aktif)** dan **jangan menekan tombol Daftar**.
+    - *Login* pada laman [https://admisi.untirta.ac.id](https://admisi.untirta.ac.id){target="_blank"} dengan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda mulai **tanggal 16 - 17 Agustus 2020 (pastikan email yang terdaftar di LTMPT aktif)** dan **jangan menekan tombol Daftar**.
     - Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf (**ukuran file tidak melebihi 260kb**) untuk di-*upload*.
         1. Pakta Integritas Uang Kuliah Tunggal
             - [Jalur SBMPTN dan SMMPTN](https://drive.google.com/file/d/1NZKdSxkkQ_Xqc67esXABnTGOSXUDaarN/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
@@ -101,7 +101,7 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
             |16.|Teknologi Pangan|Buta Warna Sebagian/Partial masih diperbolehkan|
             |17.|Agribisnis||
             |18.|Gizi|Tidak Boleh Buta Warna|
-            |19.|Ilmu Keperawatan (S1)|Tidak Boleh Buta Warna|
+            |19.|Keperawatan (D3)|Tidak Boleh Buta Warna|
             |20.|Ilmu Keperawatan (S1)|Tidak Boleh Buta Warna|
             |21.|Kedokteran|Tidak Boleh Buta Warna|
             |22.|Ilmu Keolahragaan|Tidak Boleh Buta Warna|
