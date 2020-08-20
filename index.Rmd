@@ -78,6 +78,11 @@ Bagi Calon Mahasiswa Baru yang lulus Seleksi **Bersama Masuk Perguruan Tinggi** 
         5. Akta Kelahiran (*scan* dan *upload*).
         6. Kartu Keluarga (*scan* dan *upload*).
         7. Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
+            
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [https://stimulus.pln.co.id/](https://stimulus.pln.co.id/){target="_blank"} seperti pada gambar berikut.
+            
+            ![](pln.png)
+            
         8. SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
         9. Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk **Program Studi berikut** (*scan*, jadikan 1 file, dan *upload*)
         
